@@ -1,5 +1,8 @@
 If you already have git setup in machine.
 
+You need to initialize from the project directory for it to work with gh-Pages
+Also need to have a file called index.html which is recognized by git as main file.
+
 $git init
 
 
