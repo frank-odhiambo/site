@@ -40,18 +40,6 @@ body {
     font-size: 17px;
 }
 
-.sidebar .socials a:hover {
-    background: #8a8888;
-    border-radius: 10px;
-    border: 2px solid rgb(34, 149, 178);
-    margin: 10px;
-    height: 2ex;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-    
-}
-
 nav ul {
     padding: 20px;
     list-style: none;
@@ -79,15 +67,6 @@ a {
     color: #DB0007;
 }
 
-nav ul li a:hover {
-    background: #575757;
-    border-radius: 10px;
-    border: 2px solid rgb(34, 149, 178);
-    margin: 10px;
-    color: #fff;
-    text-align: center;
-    font-weight: bold;
-}
 
 h2 {
     margin-top: 0;
