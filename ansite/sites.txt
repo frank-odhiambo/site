@@ -1,0 +1,26 @@
+If you already have git setup in machine.
+
+You need to initialize from the project directory for it to work with gh-Pages
+Also need to have a file called index.html which is recognized by git as main file.
+
+$git init
+
+
+Follow the second section, for adding from local repository.
+$git branch -M main
+$git add .
+$git commit -am "resume upload"
+$git push -u origin main
+
+
+click on settings menu. This is the menu after "Insights"
+At the "General" settings list
+Click on "Pages" in the Code and automation
+
+The GitHub Pages Menu
+"Source" should be preselected: "Deploy from a branch"
+"Branch" you should select "main", 
+click "save" next to the root folder.
+
+Note: ONLY Proceed in this section if YOU HAVE a Custom domain.
+In the "Custom domain" section, type in the full domain: https://example.com
